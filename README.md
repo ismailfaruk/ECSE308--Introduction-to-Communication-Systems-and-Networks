@@ -4,8 +4,6 @@ This reopository contains the laboratory projects done for the course ECSE 308, 
 
 ## Description
 
-Lab experiments were done using an ARM processor on an Altera DE1-SoC single board computer. The FPGA chip on the DE1-SoC has an ARM processor in was programmed.
-
 * **Lab0** - **Introduction** - Flashing the computer system onto the board and running the demo program
 
 *	[**Lab1**](Lab%201%20-%20Signals%20and%20Noise/Lab%201%20Report.pdf) - **Signals and Noise** - 
