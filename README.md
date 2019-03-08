@@ -16,7 +16,7 @@ Lab experiments were done using an ARM processor on an Altera DE1-SoC single boa
 
 *	[**Lab4**](Lab%204%20-%20IP%2C%20DNS%20and%20UDP/Lab%204%20Report.pdf) - **IP, DNS and UDP** - 
 
-*	[**Lab5**](hLab%205%20-%20DNS%2C%20UDP%20and%20HTTP/Lab%205%20Report.pdf) - **DNS, UDP and HTTP** - 
+*	[**Lab5**](Lab%205%20-%20DNS%2C%20UDP%20and%20HTTP/Lab%205%20Report.pdf) - **DNS, UDP and HTTP** - 
 
 
 ## Built With
