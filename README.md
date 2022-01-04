@@ -27,5 +27,5 @@ This reopository contains the laboratory projects done for the course ECSE 308, 
 * [**Ismail Faruk**](https://github.com/ismailfaruk)
 * **Marine Huynh**
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE](LICENSE) file for details
 
