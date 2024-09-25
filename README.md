@@ -6,15 +6,15 @@ This reopository contains the laboratory projects done for the course ECSE 308, 
 
 * **Lab0** - **Introduction** - Flashing the computer system onto the board and running the demo program
 
-*	[**Lab1**](Lab%201%20-%20Signals%20and%20Noise/Lab%201%20Report.pdf) - **Signals and Noise** - 
+*	[**Lab1**](Lab%201%20-%20Signals%20and%20Noise/Lab%201%20Report.pdf) - **Signals and Noise** - Investigation into the effect of different types of input (noise, cut-off frequency and bandwidth) on a system will be explored, using Simulink
 
-*	[**Lab2**](Lab%202%20-%20Analog%20Modulation/Lab%202%20Report.pdf) - **Analog Modulation** - 
+*	[**Lab2**](Lab%202%20-%20Analog%20Modulation/Lab%202%20Report.pdf) - **Analog Modulation** - Investigating AM and FM signal behaviors, using Simulink
 
-*	[**Lab3**](Lab%203%20-%20Digital%20Modulation/Lab%20Report%203.pdf) - **Digital Modulation** - 
+*	[**Lab3**](Lab%203%20-%20Digital%20Modulation/Lab%20Report%203.pdf) - **Digital Modulation** - Techniques to convert to-and-from digital data to an analog signal, and the impact on the signal-to-noise-ratio (SNR) and the bit error rate (BER) that is carried when converting. Techniques of digital modulation will be compared. The concept of M-Quadrature amplitude modulation (QAM) will be observed to see its impact on a signal and observe efficiency
 
-*	[**Lab4**](Lab%204%20-%20IP%2C%20DNS%20and%20UDP/Lab%204%20Report.pdf) - **IP, DNS and UDP** - 
+*	[**Lab4**](Lab%204%20-%20IP%2C%20DNS%20and%20UDP/Lab%204%20Report.pdf) - **IP, DNS and UDP**
 
-*	[**Lab5**](Lab%205%20-%20DNS%2C%20UDP%20and%20HTTP/Lab%205%20Report.pdf) - **DNS, UDP and HTTP** - 
+*	[**Lab5**](Lab%205%20-%20DNS%2C%20UDP%20and%20HTTP/Lab%205%20Report.pdf) - **DNS, UDP and HTTP**
 
 
 ## Built With
